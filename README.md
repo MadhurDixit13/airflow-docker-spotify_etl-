@@ -58,8 +58,8 @@ The required Python libraries are managed inside Airflow. Ensure the following a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/spotify-etl.git
-cd spotify-etl
+git clone https://github.com/MadhurDixit13/airflow_docker_spotify_etl.git
+cd airflow_docker_spotify_etl
 ```
 
 ### 2. Set up Docker and Airflow
